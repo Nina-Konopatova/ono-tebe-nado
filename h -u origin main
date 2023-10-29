@@ -1,0 +1,30 @@
+[33mcommit 6b1a5885efcbaf02181a7ed8ae60d5419e949db0[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: 71c82ee b25090f
+Author: Nina Konopatova <konopatova.nk@gmail.com>
+Date:   Sun Oct 29 16:28:41 2023 +0300
+
+    Merge branch 'main' of github.com:Nina-Konopatova/ono-tebe-nado
+
+[33mcommit 71c82ee1440ffb5319691c1b159b3b1aa810417f[m
+Author: Nina Konopatova <konopatova.nk@gmail.com>
+Date:   Sun Oct 29 16:24:51 2023 +0300
+
+    Конопатова_Оно тебе надо_правки ошибок
+
+[33mcommit b25090fe4d58232632a6d959defbec6722f5971d[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Nina-Konopatova <147545398+Nina-Konopatova@users.noreply.github.com>
+Date:   Sun Oct 29 14:56:29 2023 +0300
+
+    Create README.md
+
+[33mcommit b08f0b68ff2d59387e2506ec2b46dd48b2ae0e87[m
+Author: Nina Konopatova <konopatova.nk@gmail.com>
+Date:   Sun Oct 29 14:24:30 2023 +0300
+
+    Конопатова_Оно тебе надо
+
+[33mcommit 336e9a4f70b74bf8b3b28be949705cb4afdd19c2[m
+Author: Nina-Konopatova <147545398+Nina-Konopatova@users.noreply.github.com>
+Date:   Tue Oct 17 21:30:41 2023 +0300
+
+    Initial commit
