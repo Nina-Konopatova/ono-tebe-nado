@@ -57,10 +57,6 @@ img {
   justify-self:center;
 }
 
-.address {
-  font-style: normal;
-}
-
 .header__address {
   font-style: normal;
   justify-self: end;
@@ -175,7 +171,7 @@ main {
 }
 
 .lots {
-  padding: 0 50px;
+  padding: 1px 50px;
 }
 
 .lots__heading {
@@ -315,10 +311,10 @@ main {
   padding: 181px 50px 80px;
 }
 
-.address {
+.footer__address {
   justify-self: start;
   font-size: 18px;
-  
+  font-style: normal;
 }
 
 .footer__menu {
