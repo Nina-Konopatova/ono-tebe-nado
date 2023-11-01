@@ -50,7 +50,7 @@
 
 .header__logo-image {
   width: 148px;
-  height: 105px; 
+  height: 105px;
 }
 
 .address {
@@ -301,7 +301,7 @@ main {
   line-height: normal;
 }
 
-p:not(:last-child) {
+.about__text-item:not(:last-child) {
   margin-bottom: 24px;
 }
 
